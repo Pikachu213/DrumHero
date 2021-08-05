@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2d632fa3840ad49498eea3efb62535f7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Monoglyceride
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33cf2fe2a30ae7f4385821e2496077cd, type: 3}
+  - {fileID: 12800000, guid: 5390f2804741b4f48b20ac3223205081, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

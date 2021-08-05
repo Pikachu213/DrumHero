@@ -8,8 +8,14 @@ public class SongManager : MonoBehaviour
 
     void Start()
     {
-        var song = XMLSaveLoader.LoadAllSongs();
-        ns.ShowNoteSequence(song[0]);
+        PointsCalculator.score = 0;
+        //var song = XMLSaveLoader.LoadAllSongs();
+        if (SongContainer.pickedSong == null) {
+            ns.ShowNoteSequence(XMLSaveLoader.LoadAllSongs()[0]);
+            //ns.ShowNoteSequence(XMLSaveLoader.LoadSong(Application.streamingAssetsPath + "/Songs/atutorial song.xml")); 
+        }
+        else
+            ns.ShowNoteSequence(SongContainer.pickedSong);
     }
 
 }

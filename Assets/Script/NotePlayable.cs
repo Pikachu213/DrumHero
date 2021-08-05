@@ -5,23 +5,26 @@ using UnityEngine;
 
 public class NotePlayable : MonoBehaviour
 {
-    private float moveSpeed = 2f;
+    private float moveSpeed = 200f;
     //private Rigidbody rb = GetComponent<Rigidbody>();
 
     private bool wasInvoked = false;
+
+    public int trackN;
 
     // Start is called before the first frame update
     void Start()
     {
         GetComponent<Rigidbody>().useGravity = false;
+        
     }
 
 
-    private void OnTriggerEnter(Collider other)
+    /*private void OnTriggerEnter(Collider other)
     {
         Debug.Log("Note entered the triger");
         Destroy(this.gameObject);
-    }
+    }*/
 
     // Update is called once per frame
     void Update()

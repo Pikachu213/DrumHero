@@ -289,3 +289,4 @@ D:\DrumHero\Minis-master\obj\Debug\Minis.Editor.csproj.CoreCompileInputs.cache
 D:\DrumHero\Minis-master\obj\Debug\Minis.Editor.csproj.CopyComplete
 D:\DrumHero\Minis-master\obj\Debug\Minis.Editor.dll
 D:\DrumHero\Minis-master\obj\Debug\Minis.Editor.pdb
+D:\DrumHero\Minis-master\obj\Debug\Minis.Editor.csproj.AssemblyReference.cache

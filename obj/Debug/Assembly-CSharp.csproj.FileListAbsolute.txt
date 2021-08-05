@@ -300,3 +300,5 @@ D:\DrumHero\Minis-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cach
 D:\DrumHero\Minis-master\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\DrumHero\Minis-master\obj\Debug\Assembly-CSharp.dll
 D:\DrumHero\Minis-master\obj\Debug\Assembly-CSharp.pdb
+D:\DrumHero\Minis-master\Temp\Bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\DrumHero\Minis-master\Temp\Bin\Debug\Unity.2D.Sprite.Editor.pdb

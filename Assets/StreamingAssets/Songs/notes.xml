@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Song xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
-  <title>TrainSong</title>
+  <title>Say so</title>
   <bpm>220</bpm>
   <notes>
     <Note>
@@ -12,11 +12,11 @@
       <t>3</t>
     </Note>
     <Note>
-      <pad>42</pad>
+      <pad>45</pad>
       <t>4</t>
     </Note>
     <Note>
-      <pad>40</pad>
+      <pad>38</pad>
       <t>6</t>
     </Note>
     <Note>

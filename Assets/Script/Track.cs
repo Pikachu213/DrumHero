@@ -24,7 +24,8 @@ public class Track : MonoBehaviour
     public void SpawnNote(Note n) {
         if (n.pad == trackNumber) {
             Debug.Log(n.pad+" note spawned on " + trackNumber + " track.");
-            Instantiate(notePrefab, transform.position, Quaternion.identity);
+            GameObject note = Instantiate(notePrefab, transform.position, Quaternion.identity);
+            note.GetComponent<NotePlayable>().trackN = trackNumber;
         }
     }
 }

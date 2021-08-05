@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Song xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
-  <title>TrainSong</title>
+  <title>Blue bird</title>
   <bpm>220</bpm>
   <notes>
     <Note>
       <pad>46</pad>
-      <t>110</t>
+      <t>1.7</t>
     </Note>
   </notes>
 </Song>

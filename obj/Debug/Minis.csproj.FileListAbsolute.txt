@@ -282,7 +282,6 @@ D:\DrumHero\Minis-master\Temp\Bin\Debug\mscorlib.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\netstandard.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\nunit.framework.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\RtMidi.Runtime.dll
-D:\DrumHero\Minis-master\Temp\Bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\System.AppContext.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\System.Collections.Concurrent.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\System.Collections.dll
@@ -475,7 +474,6 @@ D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.VRModule.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.WindModule.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.XRModule.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\Unity.Cecil.dll
-D:\DrumHero\Minis-master\Temp\Bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.xml
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.AIModule.xml
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.ARModule.xml
@@ -554,8 +552,8 @@ D:\DrumHero\Minis-master\Temp\Bin\Debug\Unity.InputSystem.pdb
 D:\DrumHero\Minis-master\Temp\Bin\Debug\RtMidi.Runtime.pdb
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEditor.UI.pdb
 D:\DrumHero\Minis-master\Temp\Bin\Debug\UnityEngine.UI.pdb
-D:\DrumHero\Minis-master\obj\Debug\Minis.csprojAssemblyReference.cache
 D:\DrumHero\Minis-master\obj\Debug\Minis.csproj.CoreCompileInputs.cache
 D:\DrumHero\Minis-master\obj\Debug\Minis.csproj.CopyComplete
 D:\DrumHero\Minis-master\obj\Debug\Minis.dll
 D:\DrumHero\Minis-master\obj\Debug\Minis.pdb
+D:\DrumHero\Minis-master\obj\Debug\Minis.csproj.AssemblyReference.cache
